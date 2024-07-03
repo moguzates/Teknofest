@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=BlockDiagram.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=MicroController.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=MotorDriversUnit.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=PowerManagement.SchDoc|SheetNumber=3
