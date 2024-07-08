@@ -1,2 +1,0 @@
-# Teknofest
- 2024
