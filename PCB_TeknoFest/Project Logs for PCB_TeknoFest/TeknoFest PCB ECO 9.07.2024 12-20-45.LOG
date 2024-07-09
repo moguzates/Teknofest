@@ -1,0 +1,61 @@
+Removed Pin From Net: NetName=GND Pin=R8-1
+Removed Pin From Net: NetName=NetR13_8 Pin=U2-5
+Removed Pin From Net: NetName=NetR10_8 Pin=U2-6
+Removed Pin From Net: NetName=NetR12_8 Pin=U3-5
+Removed Pin From Net: NetName=NetR11_8 Pin=U3-6
+Removed Pin From Net: NetName=NetR14_8 Pin=U4-6
+Removed Pin From Net: NetName=NetR15_8 Pin=U5-6
+Removed Member From Class: ClassName=PowerManagement Member=R8
+Removed Member From Class: ClassName=PowerManagement Member=R9
+Change Component Footprint: Designator=C11 Old Footprint=CAP_ALUM_100uF_8x12 3.5MM New Footprint=CAP_ALUM_220uF_10x16 5MM
+Change Component Comment : Designator=C11 Old Comment=PKRH-063V101MF120-T/A3.5 New Comment=RD1J227M10016PA100
+Change Component Designator: OldDesignator=R9 NewDesignator=R7
+Change Component Designator: OldDesignator=R10 NewDesignator=R8
+Change Component Designator: OldDesignator=R11 NewDesignator=R9
+Change Component Designator: OldDesignator=R12 NewDesignator=R10
+Change Component Designator: OldDesignator=R13 NewDesignator=R11
+Change Component Designator: OldDesignator=R14 NewDesignator=R12
+Change Component Designator: OldDesignator=R15 NewDesignator=R13
+Change Component Designator: OldDesignator=R16 NewDesignator=R14
+Change Component Designator: OldDesignator=R17 NewDesignator=R15
+Change Component Designator: OldDesignator=R18 NewDesignator=R16
+Change Component Designator: OldDesignator=R19 NewDesignator=R17
+Change Component Designator: OldDesignator=R20 NewDesignator=R18
+Change Component Designator: OldDesignator=R21 NewDesignator=R19
+Change Component Designator: OldDesignator=R22 NewDesignator=R20
+Change Component Designator: OldDesignator=R23 NewDesignator=R21
+Change component parameters: Designator = "C11" ("C11"); Footprint = "CAP_ALUM_100uF_8x12 3.5MM"; UniqueID = "\SNVCGZBU" ("\SNVCGZBU")
+Change component parameters (AddParameter): Name = "value"; Value = "220uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Rated"; Value = "63V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VR1" ("VR1"); Footprint = "TO263-5 (D2PAK)"; UniqueID = "\FSTVNQYV" ("\FSTVNQYV")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://ozdisan.com/entegre-devreler-icler/guc-entegreleri/dc-dc-voltaj-regulatorleri/LM2596S-5-0"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin R1-8
+Add Pin To Net: Unknown Pin: Pin R2-8
+Add Pin To Net: Unknown Pin: Pin R3-8
+Add Pin To Net: Unknown Pin: Pin R4-8
+Add Pin To Net: Unknown Pin: Pin R5-8
+Add Pin To Net: Unknown Pin: Pin R6-8
+Add Pin To Net: Unknown Pin: Pin R7-8
+Add Pin To Net: Unknown Pin: Pin R10-8
+Add Pin To Net: Unknown Pin: Pin R11-8
+Add Pin To Net: Unknown Pin: Pin R12-8
+Add Pin To Net: Unknown Pin: Pin R13-8
+Add Pin To Net: Unknown Pin: Pin R14-8
+Add Pin To Net: Unknown Pin: Pin R15-8
+Add Pin To Net: Unknown Pin: Pin R16-8
+Add Pin To Net: Unknown Pin: Pin R17-8
+Add Pin To Net: Unknown Pin: Pin R18-8
+Add Pin To Net: Unknown Pin: Pin R19-8
+Add Pin To Net: Unknown Pin: Pin R20-8
+Add Pin To Net: Unknown Pin: Pin R21-8
+Added Pin To Net: NetName=NetR11_8 Pin=U2-5
+Added Pin To Net: NetName=NetR10_8 Pin=U3-5
+Added Pin To Net: NetName=NetR15_8 Pin=U4-5
+Added Pin To Net: NetName=NetR12_8 Pin=U4-6
+Added Pin To Net: NetName=NetR14_8 Pin=U5-5
+Added Pin To Net: NetName=NetR13_8 Pin=U5-6
+Added Pin To Net: NetName=NetR8_8 Pin=U2-6
+Added Net: Name=NetR8_8
+Added Pin To Net: NetName=NetR9_8 Pin=U3-6
+Added Net: Name=NetR9_8

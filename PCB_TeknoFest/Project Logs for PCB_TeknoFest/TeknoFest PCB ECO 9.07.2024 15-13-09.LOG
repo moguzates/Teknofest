@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=GND Pin=D4-2
+Change Component Footprint: Designator=C13 Old Footprint=CAP_1206_1uF New Footprint=CAP_1206_0.1uF
+Change Component Footprint: Designator=C14 Old Footprint=CAP_1206_1uF New Footprint=CAP_1206_0.1uF
+Change Component Footprint: Designator=C15 Old Footprint=CAP_ALUM_100uF_8x12 3.5MM New Footprint=CAP_ALUM_10uF_TH
+Change Component Footprint: Designator=C16 Old Footprint=CAP_ALUM_330uF_10x17 5MM New Footprint=CAP_ALUM_10uF_TH
+Change Component Comment : Designator=C13 Old Comment=CAP_1206_1uF New Comment=CAP_1206_0.1uF
+Change Component Comment : Designator=C14 Old Comment=CAP_1206_1uF New Comment=CAP_1206_0.1uF
+Change Component Comment : Designator=C16 Old Comment=CD11GCL-50V330-10X17 New Comment=PKRJ-025V100MB070
+Change Component Comment : Designator=C15 Old Comment=PKRH-063V101MF120-T/A3.5 New Comment=PKRJ-025V100MB070
+Change component parameters: Designator = "C13" ("C13"); Footprint = "CAP_1206_1uF"; UniqueID = "\AMXJZZBN" ("\AMXJZZBN")
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14" ("C14"); Footprint = "CAP_1206_1uF"; UniqueID = "\CYSQTVTJ" ("\CYSQTVTJ")
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C15" ("C15"); Footprint = "CAP_ALUM_100uF_8x12 3.5MM"; UniqueID = "\CERVKFTH" ("\CERVKFTH")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ozdisan.com/pasif-komponentler/kapasitorler/aluminyum-kapasitorler/PKRJ-025V100MB070/345328"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Rated"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C16" ("C16"); Footprint = "CAP_ALUM_330uF_10x17 5MM"; UniqueID = "\JJZILOIJ" ("\JJZILOIJ")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ozdisan.com/pasif-komponentler/kapasitorler/aluminyum-kapasitorler/PKRJ-025V100MB070/345328"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Rated"; Value = "25V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D4-1
+Add Pin To Net: Unknown Pin: Pin R1-8
+Add Pin To Net: Unknown Pin: Pin R2-8
+Add Pin To Net: Unknown Pin: Pin R3-8
+Add Pin To Net: Unknown Pin: Pin R4-8
+Add Pin To Net: Unknown Pin: Pin R5-8
+Add Pin To Net: Unknown Pin: Pin R6-8
+Add Pin To Net: Unknown Pin: Pin R8-8
+Add Pin To Net: Unknown Pin: Pin R9-8
+Add Pin To Net: Unknown Pin: Pin R10-8
+Add Pin To Net: Unknown Pin: Pin R11-8
+Add Pin To Net: Unknown Pin: Pin R12-8
+Add Pin To Net: Unknown Pin: Pin R13-8
+Add Pin To Net: Unknown Pin: Pin R14-8
+Add Pin To Net: Unknown Pin: Pin R15-8
+Add Pin To Net: Unknown Pin: Pin R16-8
+Add Pin To Net: Unknown Pin: Pin R17-8
+Add Pin To Net: Unknown Pin: Pin R18-8
+Add Pin To Net: Unknown Pin: Pin R19-8
+Add Pin To Net: Unknown Pin: Pin R20-8
+Add Pin To Net: Unknown Pin: Pin R21-8
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD4_2 Pin=R7-2
+Added Net: Name=NetD4_2

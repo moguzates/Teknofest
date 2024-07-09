@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=BOOT1 Pin=R2-2
+Add Pin To Net: Unknown Pin: Pin R3-8
+Add Pin To Net: Unknown Pin: Pin R4-8
+Add Pin To Net: Unknown Pin: Pin R5-8
+Add Pin To Net: Unknown Pin: Pin R6-8
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=U1-60
+Added Net: Name=NetR1_2
